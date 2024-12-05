@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Primeiros passos com HTML</title>
+    </head>
+    <body>
+        <h1>Módulo 1 - Primeiros passos com HTML</h1>
+        <hr />
+
+        <h2 id='inicio'>Índice</h2>
+        <ul>
+            <li><a href="#Conceitos">Conceitos de HTML</a></li>
+            <li><a href="#CS">Client x Server</a></li>
+            <li><a href="#Marks">Marks</a></li>
+            <li><a href="#Referencias">Links de referências</a></li>
+        </ul>
+
+        <h2 id= 'Conceitos'>Conceios de HTML</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p>O HTML é uma forma do cliente conseguir enxergar em linguagem humana o que o desenvolvedor quer passar em seu site, seja ele texto, imagem ou audio.</p>
+
+        <h2 id= 'CS'>Client x Server</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p>O 'Client' precisa de um 'Server' para se comunicar e encontrar os arquivos correspondentes a aplicação que está sendo solicitada.</p>
+
+        <h2 id= 'Marks'>Marks</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p>Ela serve como uma especie de marca texto, para colocar enfase em uma parte do texto ao leitor.</p>
+
+        <h2 id= 'Referencias'>Links de Referências</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p>
+            GitHub: <a href="https://github.com/digitalinnovationone/trilha-html-modulo-1/blob/main/index.html" target= '_blank'>https://github.com/digitalinnovationone/trilha-html-modulo-1/blob/main/index.html</a>
+        </p>
+    </body>
+</html>
+
